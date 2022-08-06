@@ -3,11 +3,19 @@
 <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Googool/SMPS-ESP32?include_prereleases&style=flat-square"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Googool/SMPS-ESP32?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/Googool/SMPS-ESP32?style=flat-square"> <img alt="Discord" src="https://img.shields.io/discord/992773799542005832?style=flat-square">
 </p>
 
+Work in progress:
+
+SMPS reverse engineering
+
 SMPS schematic
+
+Bench PSU control panel reverse engineering
 
 DC/DC Buck schematic
 
 IC Connections schematic
+
+
 
 ## What is a Switch Mode Power Supply?
 <p align="center">
