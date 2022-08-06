@@ -3,5 +3,5 @@
 #include "voltage.h"
 
 void measureWattage() {
-    int WATT = CURRENT * VOLTAGE;
+    int WATTAGE = CURRENT * VOLTAGE;
 }
